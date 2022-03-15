@@ -1,5 +1,5 @@
 # Simple Partials
-
+Complete
 ## Objectives
 
 1. Explain why partials are used
